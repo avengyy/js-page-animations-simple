@@ -12,5 +12,10 @@
   },
   "author": "Zac",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/a_vengyy/page-transitions#readme"
+  "homepage": "https://bitbucket.org/a_vengyy/page-transitions#readme",
+  "dependencies": {
+    "gulp-cli": "^2.0.0",
+    "gulp-sass": "^3.1.0",
+    "node-sass": "^4.7.2"
+  }
 }
