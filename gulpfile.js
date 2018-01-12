@@ -11,7 +11,7 @@ gulp.task('sass', function() {
 
 gulp.task('serve', ['sass'], function() {
   browserSync.init({
-    server: '../page-transitions'
+    server: './'
   });
 
   gulp.watch('./scss/*.scss', ['sass']);
