@@ -36,15 +36,15 @@
 
 .frame-2 {
   background-color: paleturquoise;
-  top: 100%;
+  top: -100%;
 }
 
 .frame-3 {
   background-color: palevioletred;
-  top: 100%;
+  top: -100%;
 }
 
 .frame-4 {
   background-color: palegreen;
-  top: 100%;
+  top: -100%;
 }
