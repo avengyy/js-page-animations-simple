@@ -32,7 +32,10 @@ document.addEventListener('keydown', function (evt) {
 
         document.getElementsByClassName('frame')[currentFrame].style.top = "0%";
 
-        isAnimating = false;
+        var tempTimeout = setTimeout(function(){
+          clearTimeout(tempTimeout);
+          isAnimating = false;
+        }, 250);
       } else {
         isAnimating = false;
       }
