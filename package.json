@@ -1,0 +1,16 @@
+{
+  "name": "page-transitions",
+  "version": "1.0.0",
+  "description": "page transitions",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://a_vengyy@bitbucket.org/a_vengyy/page-transitions.git"
+  },
+  "author": "Zac",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/a_vengyy/page-transitions#readme"
+}
