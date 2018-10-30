@@ -1,3 +1,5 @@
-# page-transitions
+# Simple Javascript Animations
 
-Page transition
+Open index.html
+Example 1 & 2 - Page Animations
+Example 3 - Page Transitions
